@@ -1,0 +1,6 @@
+{
+  "name": "Phi Long Studio",
+  "description": "Website chính thức giới thiệu thương hiệu, tạp chí mô hình, dự án thủ công nghệ thuật và các ứng dụng AI của Phi Long Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
